@@ -17,7 +17,7 @@ DEVICE_BLOCK_PARTITION = "/dev/block/bootdevice/by-name/boot"
 
 # Kernel sources folder name
 # Kernel sources, in this case, must be in kernels/example
-KERNEL_PATH = "example"
+KERNEL_PATH = "https://github.com/skyhuppa/Infinix_X573_Kernel -b test1
 
 # Building artifacts list (e.g. ["Image", "dtb.img"], or ["Image.gz-dtb"])
 BUILD_ARTIFACTS = ["Image.gz-dtb"]
