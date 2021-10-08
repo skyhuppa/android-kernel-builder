@@ -4,7 +4,7 @@
 #from device.examples.common import *
 
 # Device info
-CODENAME = "Infinix_X573"
+CODENAME = "Infinix-X573"
 DEFCONFIG = "defconfig"
 
 # Device info
